@@ -10,6 +10,7 @@ A **sensitivity analysis** forms the basis of testing different model algorithms
 
 Analysing power and sensitivity with examples: https://github.com/ranja-sarkar/power-sensitivity/blob/main/notebooks/sensitivity_analysis.ipynb
 
-A good read on the **effectiveness of bigger dataset size in deep learning**:
-https://www.semanticscholar.org/reader/8760bc7631c0cb04e7138254e9fd6451b7def8ca
+A good read on the **effectiveness of data in deep learning**:
+https://arxiv.org/pdf/1707.02968
+
 
