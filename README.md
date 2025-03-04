@@ -10,7 +10,5 @@ On the other hand, **power analysis** helps estimate the minimum sample size req
 
 Analysing power and sensitivity with examples: https://github.com/ranja-sarkar/power-sensitivity/blob/main/notebooks/sensitivity_analysis.ipynb
 
-A good read on the **effectiveness of data in deep learning**:
-https://arxiv.org/pdf/1707.02968
 
 
