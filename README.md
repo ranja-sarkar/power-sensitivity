@@ -11,4 +11,5 @@ On the other hand, **power analysis** helps estimate the minimum sample size req
 Analysing power and sensitivity with examples: https://github.com/ranja-sarkar/power-sensitivity/blob/main/notebooks/sensitivity_analysis.ipynb
 
 
+About determining a meaningful **effect size**: https://www.linkedin.com/pulse/effect-size-most-difficult-step-calculating-sample-wev0c/?trackingId=%2BxibBgXxHO2DyusWfU2E2Q%3D%3D
 
