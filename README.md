@@ -8,6 +8,9 @@ Selecting a **sample size** for machine learning is a challenging open problem. 
 
 On the other hand, **power analysis** helps estimate the minimum sample size required in order to detect an effect in a statistical test.
 
+<img width="386" alt="11" src="https://github.com/user-attachments/assets/74ca359b-2946-4f47-a4d4-6e40a11af71c" />
+
+
 Analysing power and sensitivity with examples: 
 
 
