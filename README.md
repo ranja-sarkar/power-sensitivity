@@ -13,5 +13,7 @@ On the other hand, **power analysis** helps estimate the minimum sample size req
 
 
 
-About determining a meaningful **effect size**: https://www.linkedin.com/pulse/effect-size-most-difficult-step-calculating-sample-wev0c/?trackingId=%2BxibBgXxHO2DyusWfU2E2Q%3D%3D
+About determining a meaningful **effect size**: 
+
+https://www.linkedin.com/pulse/effect-size-most-difficult-step-calculating-sample-wev0c/?trackingId=%2BxibBgXxHO2DyusWfU2E2Q%3D%3D
 
